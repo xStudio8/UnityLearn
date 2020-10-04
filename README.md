@@ -16,11 +16,12 @@
  * [官方资料](#官方资料)
  * [框架整理](#框架整理)
  * [UI框架](#UI框架)
+ * [美术资源](#美术资源)
  * [特效](#特效)
  * [常用工具](#常用工具)
  
 ## 基础入门
-
+Unity UI设计 [Unity 3D UI Essentials]
 
 [返回目录](#目录)
 
@@ -37,6 +38,10 @@
 [UnityShader](https://github.com/search?p=2&q=unity+Shader)
 [返回目录](#目录)
 
+## 美术资源
+[选择2D美术资源的分辨率](https://mp.weixin.qq.com/s?__biz=MzU5MjQ1NTEwOA==&mid=2247496072&idx=1&sn=6b0fd5fff21735ff8ec9d10e55893b29&chksm=fe1dc523c96a4c35dc05e99a9b6e60f70f6b03cf8573191a640903bef349c2f92abbd913e683&mpshare=1&scene=23&srcid=121438eeJHHAj8J825Av2Clu#rd)
+[返回目录](#目录)
+
 ## 特效
 [UnityShader](https://github.com/search?p=2&q=unity+Shader)
 
@@ -44,6 +49,7 @@
 
 ## 常用工具
 [UnityGitgub](https://unity.github.com)
+[内购](https://github.com/voltrue2/in-app-purchase)
 [一键打包](https://www.cnblogs.com/wang-jin-fu/p/11242450.html)
 
 
