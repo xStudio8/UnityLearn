@@ -9,8 +9,7 @@
 * 使用 [Pull Request](https://github.com/xJayLee/LearnUnity/pulls) 提交
 
 如果你发现了不能访问的链接，也可以提 PR，在无法访问链接的后面增加 `:worried:`。
-
-[贡献者名单] (https://github.com/xJayLee/LearnUnity/graphs/contributors)
+[贡献者名单](https://github.com/xJayLee/LearnUnity/graphs/contributors)
 
 ## 目录
  * [基础入门](#基础入门)
