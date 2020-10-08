@@ -18,7 +18,9 @@
  * [UI框架](#UI框架)
  * [美术资源](#美术资源)
  * [特效](#特效)
- * [常用工具](#常用工具)
+ * [常用插件](#常用插件)
+ * [开发工具](#开发工具)
+
  
 ## 基础入门
 Unity UI设计 [Unity 3D UI Essentials]
@@ -47,10 +49,14 @@ Unity UI设计 [Unity 3D UI Essentials]
 
 [返回目录](#目录)
 
-## 常用工具
+## 常用插件
 [UnityGitgub](https://unity.github.com)
 [内购](https://github.com/voltrue2/in-app-purchase)
 [一键打包](https://www.cnblogs.com/wang-jin-fu/p/11242450.html)
 
+[返回目录](#目录)
+
+## 开发工具
+[Git](https://blog.csdn.net/asklxf/article/details/10131835)
 
 [返回目录](#目录)
